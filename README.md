@@ -125,3 +125,38 @@ Utilisateur parle → SpeechRecognizer → Texte capturé → API Gemini
     → JSON structuré → CRUD Commande → UI mise à jour via ViewModel
 ```
 
+## Demo – Voice Commands in Action / Démo – Commandes Vocales en Action
+
+**EN:**
+The following examples demonstrate the four core order management operations — all triggered through natural voice input, interpreted by Gemini, and reflected in real time in the cart interface.
+
+**FR:**
+Les exemples suivants illustrent les quatre opérations principales de gestion de commande — toutes déclenchées par saisie vocale naturelle, interprétées par Gemini, et reflétées en temps réel dans l'interface du panier.
+
+### Cart Summary / Résumé du panier
+ **EN:**: Voice request for a summary of the current cart content.
+ **FR:**: Demande vocale du résumé du contenu du panier actuel.
+
+### Add / Ajout
+ **EN:**: Adding a Marinara pizza via voice command.
+ **FR:**: Ajout d'une pizza Marinara par commande vocale.
+
+![alt text](img/image-5.png)
+
+### Update / Modification
+ **EN:**: Updating the Margherita order — setting cheese quantity to 15g via voice command.
+ **FR:**: Modification de la commande Margherita — passage à 15g de fromage par commande vocale.
+
+ ![alt text](img/image-4.png)
+
+### Delete / Suppression
+ **EN:**: Removing the Pepperoni pizza from the cart via voice command.
+ **FR:**: Suppression de la pizza Pepperoni du panier par commande vocale.
+
+ ![alt text](img/image-6.png)
+
+### Cart Interface / Interface du panier
+ **EN:**: The cart interface reflecting the state of the order after operations.
+ **FR:**: L'interface du panier reflétant l'état de la commande après les opérations.
+
+ ![alt text](img/image-7.png)
